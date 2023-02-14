@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EchoClientHomeWork_41/EchoClientHomeWork_41.iml" filepath="$PROJECT_DIR$/EchoClientHomeWork_41/EchoClientHomeWork_41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EchoHomeWork.iml" filepath="$PROJECT_DIR$/.idea/EchoHomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoServerHomeWork_41/EchoServerHomeWork_41.iml" filepath="$PROJECT_DIR$/EchoServerHomeWork_41/EchoServerHomeWork_41.iml" />
+    </modules>
+  </component>
+</project>
