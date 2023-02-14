@@ -24,7 +24,7 @@ public class EchoServer {
         try(var server = new ServerSocket(port)){
             while (!server.isClosed()) {
                 Socket clientSocket = server.accept();
-                handle(clientSocket)
+                handle(clientSocket);
             }
         }catch (IOException e){
             System.out.printf("Connection is failed, port %n is busy.%n", port);
